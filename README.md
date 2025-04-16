@@ -25,7 +25,7 @@ This project automates product search and filtering on [Amazon](https://www.amaz
 
 ## Folder Structure
 ```
-flipkart-framework/
+ecomerce-framework/
 │
 ├── base/                  # Test base class
 │   └── BaseTest.java
